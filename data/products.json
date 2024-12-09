@@ -1,0 +1,32 @@
+[
+  {
+    "name": "krema",
+    "size": "50ml",
+    "price": 20,
+    "amount": 3
+  },
+  {
+    "name": "parfem",
+    "size": "100ml",
+    "price": 50,
+    "amount": 5
+  },
+  {
+    "name": "serum",
+    "size": "20ml",
+    "price": 10,
+    "amount": 4
+  },
+  {
+    "name": "voda",
+    "size": "500ml",
+    "price": 5,
+    "amount": 15
+  },
+  {
+    "name": "deodorant",
+    "size": "70ml",
+    "price": 8,
+    "amount": 6
+  }
+]
