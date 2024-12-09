@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Ivana Jonjic",
+        "age": 29,
+        "height": 164,
+        "gender": "female"
+    },
+    {
+        "name": "Antea Jonjic",
+        "age": 26,
+        "height": 174,
+        "gender": "female"
+    },
+    {
+        "name": "Mario Jonjic",
+        "age": 23,
+        "height": 184,
+        "gender": "male"
+    },
+    {
+        "name": "Pero Jonjic",
+        "age": 56,
+        "height": 188,
+        "gender": "male"
+    },
+    {
+        "name": "Pero Jonjic",
+        "age": 56,
+        "height": 188,
+        "gender": "male"
+    }
+]
